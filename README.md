@@ -36,7 +36,7 @@ This project was developed as a collaborative effort:
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/serdarvarl/MultiThreaded-Traffic-Sim.git
+    git clone "take true repo from github"
     ```
 2.  Open the project in your favorite IDE (IntelliJ IDEA, Eclipse, or VS Code).
 3.  Ensure `plan.csv` is in the root directory.
@@ -78,7 +78,7 @@ Ce projet a été développé dans le cadre d'un effort collaboratif :
 ## 🚀 Installation et Exécution
 1.  Cloner le dépôt :
     ```bash
-    git clone https://github.com/serdarvarl/MultiThreaded-Traffic-Sim.git
+    git clone "prendre correct repo depuis github car il a ete renommer"
     ```
 2.  Ouvrir le projet dans votre IDE préféré (IntelliJ IDEA, Eclipse, ou VS Code).
 3.  S'assurer que le fichier `plan.csv` se trouve dans le répertoire racine.
